@@ -3,8 +3,6 @@
 int main(){
     
     printf("Hello world!\n");
-    printf("Este é um teste de aula.\n");
-    printf(":).\n");
 
     return 0;
     
